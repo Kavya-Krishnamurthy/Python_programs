@@ -1,4 +1,4 @@
-"""Your task is to help Karel fill the world with beepers, regardless of its size.EX: 5x5, 3x4 ,2X2"""
+"""task is to help Karel fill the world with beepers, regardless of its size.EX: 5x5, 3x4 ,2X2"""
 
 
 from karel.stanfordkarel import *
